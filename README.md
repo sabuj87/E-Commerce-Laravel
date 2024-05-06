@@ -1,4 +1,4 @@
-# E-COMMERCE (Larvel)
+# E-COMMERCE (Laravel)
 Full funtional online shop
 
 ## About the app
@@ -10,19 +10,6 @@ Full funtional online shop
 ## Screen Shot
 
 [add_cost]: https://github.com/sabuj87/raw/blob/master/mess/add_cost.png
-[add_meal]: https://github.com/sabuj87/raw/blob/master/mess/add_meal.png
-[add_member]: https://github.com/sabuj87/raw/blob/master/mess/add_member.png
-[admin_dash]: https://github.com/sabuj87/raw/blob/master/mess/admin_dash.png
-[all_member]: https://github.com/sabuj87/raw/blob/master/mess/all_member.png
-[login]: https://github.com/sabuj87/raw/blob/master/mess/login.png
-[manger_dash]:https://github.com/sabuj87/raw/blob/master/mess/manger_dash.png
-[member_dash]: https://github.com/sabuj87/raw/blob/master/mess/member_dash.png
-[mess_info]: https://github.com/sabuj87/raw/blob/master/mess/mess_info.png
-[select_manger]: https://github.com/sabuj87/raw/blob/master/mess/select_manger.png
-[techerPanlen]: https://github.com/sabuj87/raw/blob/master/Attendence%20System(Scren%20sot)/techerPanlen.png
-[TakeAttendence]: https://github.com/sabuj87/raw/blob/master/Attendence%20System(Scren%20sot)/TakeAttendence.png
-[TeacherViewAttendance]: https://github.com/sabuj87/raw/blob/master/Attendence%20System(Scren%20sot)/TeacherViewAttendance.png
-[studentViewAttendance]: https://github.com/sabuj87/raw/blob/master/Attendence%20System(Scren%20sot)/studentViewAttendance.png
 
 |   SITE SCREEN SHOT |  
 | ------------- |
@@ -32,6 +19,9 @@ Installation
 
 ```php
     composer install
+```
+```php
+    php artisan migrate
 ```
 * then
 ```php
