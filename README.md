@@ -1,5 +1,5 @@
 # E-COMMERCE (Laravel)
-Full funtional online shop
+Full functional online shop
 
 ## About the app
 * App OS : Web
