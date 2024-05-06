@@ -9,11 +9,11 @@ Full funtional online shop
 
 ## Screen Shot
 
-[add_cost]: https://github.com/sabuj87/raw/blob/master/mess/add_cost.png
+[ecom]: https://github.com/sabuj87/raw/blob/master/ecom/ecom.png
 
 |   SITE SCREEN SHOT |  
 | ------------- |
-|![alt text][login] 
+|![alt text][ecom] 
 
 Installation 
 
@@ -30,13 +30,14 @@ Installation
 
 
 
-[Download APK](https://mega.nz/file/EYtVTSbC#fEjOTWNa4rFdwWkqYfRbgxRJaji91kGQ48oPMItHyrk)
+[DEMO](https://assabuj.com/ecom)
 
 ## Ask any question...
 * Email : sabujaeed@gmail.com
-* [Download APK](https://mega.nz/file/EYtVTSbC#fEjOTWNa4rFdwWkqYfRbgxRJaji91kGQ48oPMItHyrk)
 * [Facebook](https://www.facebook.com/saeed.sabuj)
 * [Linkedin](https://www.linkedin.com/in/sabuj87/)
 * [Twitter](https://twitter.com/sabujsaeed)
 * [Instagram](https://www.instagram.com/assabuj87/)
 * [Youtube](https://www.youtube.com/abusaeedsabuj)
+* [Portfolio](https://assabuj.com)
+
