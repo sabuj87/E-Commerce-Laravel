@@ -1,0 +1,2 @@
+[24-Jun-2022 08:34:05 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 7.4.30. in /home/assabuj/public_html/ecom/vendor/composer/platform_check.php on line 24
+[25-Jul-2022 20:59:48 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 7.4.30. in /home/assabuj/public_html/ecom/vendor/composer/platform_check.php on line 24

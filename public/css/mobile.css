@@ -1,0 +1,48 @@
+body{
+
+    position :relative;
+    min-height:100%;
+   padding-bottom: 250%;
+    font-family: 'Rubik', sans-serif;
+}
+
+#heart{
+    float: right;
+}
+#categoryMain{
+    display: none;
+}
+.slideItem{
+    width: 100%;
+    border: 1px solid #e9e4e3 ;
+    height: 250px;
+    position: relative;
+    border-radius: 5px;
+
+}
+.banner{
+    display: none;
+}
+
+#smallview{
+  display: block;
+}
+#bigview{
+   display: none;
+}
+.responsive4{
+    object-fit: contain;
+    max-width: 100%;
+    max-height: 100%;
+    width: 100%;
+    min-height: 250px;
+}
+.mainMenu li{
+
+    display: inline;
+ padding: 0px;
+    color: white;
+}
+.loginbanner{
+    display: none;
+}
